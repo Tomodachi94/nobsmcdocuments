@@ -1,4 +1,4 @@
-# Section I: Structures and Optimisations
+# Section I: Deadly Items, Fluids, and Blocks Containment Agreement
 
 ## Preamble
 
@@ -19,6 +19,7 @@ By adding your signature to this document, you agree to:
     * TNT
     * Hazardous Material (block)
     * Sewage
+    * Sludge
   * Tier 2, mildly concerning in small quantity
     * Matter Cannon
   * Tier 3, extremely concerning if unrestrained in any quantity
@@ -26,6 +27,6 @@ By adding your signature to this document, you agree to:
     * Gelid Cryotheum
     * Plasma
     * Toxic Waste
-* Attempt to enforce this document where appropriate (see)
+* Attempt to enforce this document where appropriate (see [Enforcement](tekkitdoctrine/Enforcement.markdown) for details)
 
 ## Signatures
