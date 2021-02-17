@@ -27,6 +27,9 @@ By adding your signature to this document, you agree to:
     * Gelid Cryotheum
     * Plasma
     * Toxic Waste
+* Destroy certain "legacy items" which could cause chaos, including but not limited to:
+  * Pink Slime.name Block (Mystcraft Page)
+  * Sacred Rubber Saplings (MineFactory Reloaded sapling)
 * Attempt to enforce this document where appropriate (see [Enforcement](tekkitdoctrine/Enforcement.markdown) for details)
 
 ## Signatures
