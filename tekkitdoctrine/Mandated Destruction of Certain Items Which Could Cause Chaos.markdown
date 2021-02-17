@@ -1,4 +1,4 @@
-# Section IIV: Mandated Destruction of Certain Items Which Could Cause Chaos
+# Section III: Mandated Destruction of Certain Items Which Could Cause Chaos
 ## Preamble
 
 As our own Agent_Delphi said:
